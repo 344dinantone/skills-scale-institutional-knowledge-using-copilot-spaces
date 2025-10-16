@@ -30,8 +30,13 @@ Roles are clearly defined to ensure accountability and effective collaboration:
 
 - **Project Managers**: Coordinate delivery activities, manage schedules, risks, and communications; facilitate team meetings and maintain project transparency
 - **Product Managers**: Define product vision, prioritize the backlog, measure outcomes, and ensure customer value delivery
+- **Scrum Masters**: Facilitate agile ceremonies, remove impediments, coach the team on agile practices, and protect the team from external distractions
 - **Developers**: Implement features, write tests, participate in code reviews, and help identify technical risks
-- **QA Specialists**: Validate features against acceptance criteria, perform manual testing for critical releases, and ensure quality standards
+- **QA Leads**: Define QA strategy, oversee testing efforts, ensure quality standards, and validate release readiness
+- **Technical Architects**: Design system architecture, establish technical standards, guide technology decisions, and ensure solutions are scalable and maintainable
+- **Release Managers**: Coordinate release schedules, manage deployment automation, and ensure smooth deployments with minimal risk
+- **Business Analysts**: Gather and document business requirements, create functional specifications, and bridge business needs with technical solutions
+- **Support Leads**: Manage customer support operations, coordinate issue resolution, and advocate for customer needs in product planning
 - **Stakeholders**: Provide input, approvals, and guidance; participate in reviews and decision-making
 
 ## Communication Strategies
@@ -95,6 +100,8 @@ This folder contains detailed guidance on specific aspects of OctoAcme's project
 - **[Project Initiation Guide](octoacme-project-initiation.md)**: How to start new projects with the Project One-pager template
 - **[Project Planning](octoacme-project-planning.md)**: Detailed planning processes and templates
 - **[Roles and Personas](octoacme-roles-and-personas.md)**: Complete role definitions and responsibilities
+- **[Role Assignment Checklist](octoacme-role-assignment-checklist.md)**: Ensure clear role assignments and accountability
+- **[Team Onboarding Template](octoacme-team-onboarding-template.md)**: Consistent onboarding for new team members
 - **[Execution and Tracking](octoacme-execution-and-tracking.md)**: Day-to-day delivery practices and workflows
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)**: Risk identification, mitigation, and stakeholder communication
 - **[Release and Deployment](octoacme-release-and-deployment.md)**: Deployment processes and release management
